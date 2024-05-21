@@ -6,7 +6,7 @@
 class SmartTV {
     Vector<Aplicacion *> *aplicaciones;
     Aplicacion* aplicacionActual;
-    
+
 bool conectarInternet;
 public:
     SmartTV(unsigned int espacioEnDisco);

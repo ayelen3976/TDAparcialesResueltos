@@ -1,3 +1,14 @@
 # ninja log v5
 740	924	1716217601411925996	TDA_smartTV	ae167ce9a39e41d5
 0	739	1716217601227925783	CMakeFiles/TDA_smartTV.dir/main.cpp.o	1b0fe7bdbb771757
+2	657	1716315555410242663	CMakeFiles/TDA_smartTV.dir/Aplicacion.cpp.o	bafdeb0d0865cce9
+1	750	1716315555506242105	CMakeFiles/TDA_smartTV.dir/main.cpp.o	1b0fe7bdbb771757
+1	793	1716315555546241872	CMakeFiles/TDA_smartTV.dir/SmartTV.cpp.o	b57355c80ce2084a
+1	676	1716315595126135208	CMakeFiles/TDA_smartTV.dir/main.cpp.o	1b0fe7bdbb771757
+2	679	1716315601410139657	CMakeFiles/TDA_smartTV.dir/main.cpp.o	1b0fe7bdbb771757
+1	652	1716315615806170219	CMakeFiles/TDA_smartTV.dir/main.cpp.o	1b0fe7bdbb771757
+1	673	1716315828033100466	CMakeFiles/TDA_smartTV.dir/main.cpp.o	1b0fe7bdbb771757
+1	697	1716315832301194667	CMakeFiles/TDA_smartTV.dir/SmartTV.cpp.o	b57355c80ce2084a
+2	720	1716315864069926782	CMakeFiles/TDA_smartTV.dir/SmartTV.cpp.o	b57355c80ce2084a
+1	692	1716316150244740459	CMakeFiles/TDA_smartTV.dir/main.cpp.o	1b0fe7bdbb771757
+1	764	1716316150316738719	CMakeFiles/TDA_smartTV.dir/SmartTV.cpp.o	b57355c80ce2084a
